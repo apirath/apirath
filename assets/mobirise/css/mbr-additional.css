@@ -1775,6 +1775,40 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-qwBE1PH9HD {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fafafa;
+}
+.cid-qwBE1PH9HD h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qwBE1PH9HD .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-qwBE1PH9HD .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qwBE1PH9HD .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-qwBE1PH9HD ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-qwBE1PH9HD path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qwBE1PH9HD .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
 .cid-qwAhXJZiOh .navbar {
   padding: .5rem 0;
   background: #333333;
